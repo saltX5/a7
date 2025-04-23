@@ -69,6 +69,10 @@ A curated list of cool sites, tools and resources I found useful across hacking,
 - [PrivNote](https://privnote.com/)  
   Create notes that self-destruct after being read.
 
+- [Encrypted Bytes](https://encrypted-bytes.com/)  
+  Privacy-focused platform offering encrypted pastebin and anonymous file sharing tools.
+
+
 ---
 
 ### 🌍 Web Utilities
