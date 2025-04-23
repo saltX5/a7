@@ -18,6 +18,14 @@ A curated list of cool sites, tools and resources I found useful across hacking,
 - [Surge.sh](https://surge.sh)  
   Static web publishing for frontend devs with one command line push. Super fast and simple for deploying HTML/CSS/JS projects.
 
+- [Zencoder.ai](https://zencoder.ai/)  
+  AI tool to generate and autocomplete code using natural language prompts.
+
+- [FileConv Remove BG](https://fileconv.online/remove-bg)  
+  Online tool to remove image backgrounds instantly with no signup.
+  
+- [Sree Models](https://www.sree.shop/models)  
+  Marketplace for AI models, tools, and datasets including cybersec-focused ones.
 
 ---
 
@@ -31,6 +39,18 @@ A curated list of cool sites, tools and resources I found useful across hacking,
 
 - [MambaPanel](https://mambapanel.com/)  
   OSINT dashboard offering scraping tools and intelligence features.
+
+- [Pentest Vault](https://penteztzmicz.github.io/Pentest-Vault/)  
+  A massive list of curated tools, payloads, and resources for pentesters.
+
+- [Ghostwriter](https://github.com/GhostManager/Ghostwriter)  
+  Red team engagement planner and reporting framework for managing pentests.
+
+- [LeakIX](https://leakix.net/)  
+  OSINT engine indexing exposed services and leaked data in real-time.
+
+- [Onyphe](https://www.onyphe.io/)  
+  Cyber threat intelligence platform aggregating data from scans and breaches.
 
 ---
 
