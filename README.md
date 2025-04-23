@@ -45,6 +45,13 @@ A curated list of cool sites, tools and resources I found useful across hacking,
 - [Bug Bounty Hunting](https://www.bugbountyhunting.com/)  
   Community platform for bug bounty hunters sharing knowledge and tips.
 
+- [BBRadar](https://bbradar.io/)  
+  Real-time bug bounty program aggregator showing the latest public disclosures and new program launches.
+
+- [HackenProof](https://hackenproof.com/programs)  
+  Bug bounty platform connecting ethical hackers with companies looking to secure their systems.
+
+
 ---
 
 ### 📚 Knowledge & Learning
