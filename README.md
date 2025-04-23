@@ -77,4 +77,28 @@ A curated list of cool sites, tools and resources I found useful across hacking,
 
 ---
 
+### 🕶️ Anonymous & Temp Email Tools
+
+- [AnonymousEmail](https://anonymousemail.me)  
+  Send anonymous emails without logging in or revealing your identity.
+
+- [SmailPro](https://smailpro.com/)  
+  Generate temporary Gmail addresses for verification or testing.
+
+- [Emkei.cz](https://emkei.cz/)  
+  Email spoofer that lets you send fake emails with custom sender info.
+
+- [Emailnator](https://www.emailnator.com)  
+  Temporary Gmail generator that works well for bypassing OTPs and signups.
+
+- [5YMail](https://www.5ymail.com/)  
+  Email spoofing tool to send messages with any sender address.
+
+- [UQ Mail](https://uq.ci/signup.php)  
+  Disposable email service with simple signup and quick access.
+
+- [PissMail](https://pissmail.com)  
+  Another temp mail provider to receive emails without registration.
+
+
 ✌️ Collected and curated for reference — feel free to fork or suggest more!
