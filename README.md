@@ -9,6 +9,9 @@ A curated list of cool sites, tools and resources I found useful across hacking,
 - [v0.dev](https://v0.dev/)  
   AI-powered UI generator to build React components from simple text prompts.
 
+- [privatebin.net](https://privatebin.net)  
+  pastebin alternitive that also works on Tor browser.
+
 - [Graph.org](https://graph.org/)  
   Minimalist and privacy-friendly text editor by Telegram for quick publishing.
 
