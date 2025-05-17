@@ -109,8 +109,6 @@ A curated list of cool sites, tools and resources I found useful across hacking,
 - [BitRefill](https://bitrefill.com/)  
   Buy gift cards and mobile top-ups using crypto from anywhere.
 
-- [hex]
-
 ---
 
 ### 🕶️ Anonymous & Temp Email Tools
